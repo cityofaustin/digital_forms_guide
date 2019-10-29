@@ -35,5 +35,5 @@ FormStack is a technology that digitizes and automates your existing forms and p
 
 ## How can I get a lincense? 
 
-Please be sure to contact the CTM Service desk and they can help you get in touch with a Form Consultant. 
+Please be sure to contact the CTM Service desk and they can help you get in touch with a Form Consultant or contact the CTM Help Desk \(512-974-HELP\)
 
