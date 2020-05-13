@@ -8,3 +8,14 @@ description: >-
 
 ## What does this mean? 
 
+1. Use short, simple words.
+
+2. Write short sentences.
+
+3. Avoid using acronyms and abbreviations.
+
+4. Use an active voice in the present tense.
+
+5. Use correct grammar and spelling.
+
+6. Remove proper nouns.
