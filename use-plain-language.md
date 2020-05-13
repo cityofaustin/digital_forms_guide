@@ -8,6 +8,8 @@ description: >-
 
 ## What does this mean? 
 
+##### Make web text so simple it can be understood the first time it is read.
+
 1. Use short, simple words.
 
 2. Write short sentences.
