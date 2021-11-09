@@ -19,5 +19,5 @@
 * [FormStack](current-tool/formstack.md)
 * [CTM Form Consultants Account Oversight](current-tool/consultants.md)
 * [Accessiblity](current-tool/accessiblity.md)
-* [Service Design](current-tool/get-form-stack.md)
+* [Contact and questions](current-tool/get-form-stack.md)
 * [Glossary](current-tool/glossary.md)
