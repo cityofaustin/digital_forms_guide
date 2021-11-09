@@ -14,11 +14,10 @@
 * [Processes matter as much as forms](processes-matter-as-much-as-forms.md)
 * [Resources](resources.md)
 
-## The City of Austin's Current Digital Forms Tool <a id="current-tool"></a>
+## The City of Austin's Current Digital Forms Tool <a href="current-tool" id="current-tool"></a>
 
 * [FormStack](current-tool/formstack.md)
 * [CTM Form Consultants Account Oversight](current-tool/consultants.md)
 * [Accessiblity](current-tool/accessiblity.md)
-* [Service Design](current-tool/service-design.md)
+* [Service Design](current-tool/get-form-stack.md)
 * [Glossary](current-tool/glossary.md)
-
