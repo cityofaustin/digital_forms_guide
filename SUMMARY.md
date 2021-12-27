@@ -13,8 +13,9 @@
 * [Test and improve your forms](test-and-improve-your-forms.md)
 * [Processes matter as much as forms](processes-matter-as-much-as-forms.md)
 * [Resources](resources.md)
+* [Friends of Forms](friends-of-forms.md)
 
-## The City of Austin's Current Digital Forms Tool <a href="current-tool" id="current-tool"></a>
+## The City of Austin's Current Digital Forms Tool <a href="#current-tool" id="current-tool"></a>
 
 * [FormStack](current-tool/formstack.md)
 * [CTM Form Consultants Account Oversight](current-tool/consultants.md)
