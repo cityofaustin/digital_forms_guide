@@ -20,3 +20,4 @@
 * [CTM Form Consultants Account Oversight](current-tool/consultants.md)
 * [Accessiblity](current-tool/accessiblity.md)
 * [Contact us](current-tool/get-form-stack.md)
+* [Friends of Forms](current-tool/friends-of-forms.md)

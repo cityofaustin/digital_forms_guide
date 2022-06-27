@@ -14,11 +14,3 @@ This  guide provides City staff a living resource to support their creation of r
 
 For any feedback or questions, please be sure to contact the Communication Technology Mangagement (CTM) Service desk and they can help you get in touch with a Form Consultant.
 
-Many thanks to the City of Austin team (Friends of Forms) who came together to make this guide what it is today.
-
-* Ashlee Harris
-* Amenity Applewhite
-* Happiness Kisoso
-* Julia Byron
-* Sally Caraway
-
