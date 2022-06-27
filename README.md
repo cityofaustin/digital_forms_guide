@@ -12,7 +12,7 @@ No one loves filling out forms, which is why it is our job to make sure our form
 
 This  guide provides City staff a living resource to support their creation of resident-oriented, easy to use, digital forms.
 
-For any feedback or questions, please be sure to contact the CTM Service desk and they can help you get in touch with a Form Consultant.
+For any feedback or questions, please be sure to contact the Communication Technology Mangagement (CTM) Service desk and they can help you get in touch with a Form Consultant.
 
 Many thanks to the City of Austin team (Friends of Forms) who came together to make this guide what it is today.
 
