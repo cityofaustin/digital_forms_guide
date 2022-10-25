@@ -33,6 +33,6 @@ FormStack is a technology that digitizes and automates your existing forms and p
 
 [Click here to view the presentation](https://docs.google.com/presentation/d/e/2PACX-1vQ\_SZlJIFEZeSSYx\_WwKKbmnnOhk\_p3D7LPAyMGvtpCXBrlycSeNdXP6GMpBRGfcWh8MrUIMLrxcNQM/pub?start=false\&loop=false\&delayms=3000\&slide=id.g28f2f0de0c\_0\_165)
 
-## How can I get a lincense?
+## How can I get a license?
 
 Please be sure to contact the CTM Service desk and they can help you get in touch with a Form Consultant or contact the CTM Help Desk (512-974-HELP)
